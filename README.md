@@ -73,6 +73,8 @@ php artisan migrate
 
 Then run `php artisan passport:install`
 
+## Import Database file into Localhost
+
 Import the database file located in `database/biosec_db.sql` into your newly created database in `localhost/phpmyadmin`
 
 ## Run the serve
